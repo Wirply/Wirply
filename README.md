@@ -1,6 +1,6 @@
-# Octolabs
+# Wirply
 
-> My prime Nuxt.js project
+> Official website of Wirply Inc.
 
 ## Build Setup
 
